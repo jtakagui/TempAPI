@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/MootIT.Processo/MootIT.Processo.API/bin/Debug/netcoreapp2.1
+/MootIT.Processo/.vs/MootIT.Processo/v15
+/MootIT.Processo/MootIT.Processo.API/obj/Debug/netcoreapp2.1
+/MootIT.Processo/MootIT.Processo.Core/bin/Debug/netcoreapp2.1
+/MootIT.Processo/MootIT.Processo.Core/obj/Debug/netcoreapp2.1
+/MootIT.Processo/MootIT.Processo.Repositorio/bin/Debug/netcoreapp2.1
+/MootIT.Processo/MootIT.Processo.Repositorio/obj/Debug/netcoreapp2.1
+/MootIT.Processo/MootIt.Processo.Teste/bin/Debug/netcoreapp2.1
+/MootIT.Processo/MootIt.Processo.Teste/obj/Debug/netcoreapp2.1
